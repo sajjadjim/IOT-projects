@@ -1,4 +1,4 @@
-# Project Name: [Insert IoT Project Title]
+# Project Name: [Automatic Pet Feeding System]
 
 A brief, one-sentence description of what this IoT device does (e.g., "A smart soil moisture monitoring system that sends real-time alerts to a mobile app via MQTT").
 
